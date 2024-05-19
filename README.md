@@ -40,6 +40,13 @@
 
 <h2 id=##Características-de-la-aplicación-y-demostración> Características de la aplicación y demostración </h2>
 <p>
+
+
+
+https://github.com/jlha76/ConversorDeMonedasAluraOne/assets/105262310/ab0276c0-802b-485a-b0fe-94d8adebc9c5
+
+
+  
 </p>
 
 <h2 id=#acceso-proyecto> Acceso al proyecto </h2>
